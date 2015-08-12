@@ -20,5 +20,11 @@ Donut Shop program does the following:
   Another method is added for rendering a new row into the table.
   
   Another method to update the DOM with hourly and daily totals.
-
   
+  Method to add a row to the table
+  Method to update row on the table
+  
+  Added an input field where users can add a new instance of donut shop
+    and they can update the data on the shops already in place.
+
+  Sample paragraph text taken from www.deloreanipsum.com
