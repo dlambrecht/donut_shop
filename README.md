@@ -26,5 +26,10 @@ Donut Shop program does the following:
   
   Added an input field where users can add a new instance of donut shop
     and they can update the data on the shops already in place.
-
+    
+Sources:
   Sample paragraph text taken from www.deloreanipsum.com
+
+  Christopher LLoyd image taken from www.bluecatscreenplay.com
+  
+  DeLorean image taken from plamoya.com

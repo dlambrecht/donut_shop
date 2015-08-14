@@ -114,7 +114,7 @@ var handleDonutSubmit = function(event) { // function that handles the event
   }
   if (isNewShop) { // new shop info
     var newShop = new DonutShop(locName, min, max, avg);
-    newShop.sumHrTotal();
+    newShop.sumHrTotal();   
     newShop.addRow(donutTable);
     donutData.push(newShop);
     
