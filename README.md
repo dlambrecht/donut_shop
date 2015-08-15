@@ -29,7 +29,11 @@ Donut Shop program does the following:
     
 Sources:
   Sample paragraph text taken from www.deloreanipsum.com
-
-  Christopher LLoyd image taken from www.bluecatscreenplay.com
   
   DeLorean image taken from plamoya.com
+  
+  Lego Doc image taken from www.ebay.com
+  
+  Donut image taken from hdwallpapers-download.com
+  
+  Animations inspired from http://codepen.io/valhead/pen/wigpH
