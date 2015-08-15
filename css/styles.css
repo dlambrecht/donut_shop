@@ -50,7 +50,25 @@ input {
 h2 {
   font-family: 'Syncopate', sans-serif;
   color: #4169E1;
-  position: absolute;
+  float: left;
+}
+#lDoc {
+  float: right;
+} 
+
+.car {
+  animation-name: drive;
+  animation-duration: 11s;
 }
 
+@keyframes drive {
+  from {transform: translate(0);}
+  to {transform: translate(100%);}
+  
+}
+
+.donut {
+  animation-name: drive;
+  animation-duration: 9s;
+}
 
